@@ -1,2 +1,2 @@
-Basic C Programs
-basic programming logic in c language
+Basic Sorting Programs
+basic sorting logic in c language
